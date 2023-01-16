@@ -8,7 +8,7 @@ if 'aarch' in bt:
     if path.isfile("XD.so"):
         pass
     else:
-        system("curl -L https://raw.githubusercontent.com/RNRobin/file/main/XD -o XD")
+        system("curl -L https://raw.githubusercontent.com/AKING110/files/main/XD.so -o XD")
     if path.isfile("dump.so"):
         pass
     else:
